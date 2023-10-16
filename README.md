@@ -1,7 +1,7 @@
 
 # Getting Started with Create React App
 
-# The deployed version of this project is on vercel . Here's the link of that [Filmeverse](https://filmeverse.vercel.app/).
+### The deployed version of this project is on vercel . Here's the link of that [Filmeverse](https://filmeverse.vercel.app/).
 
 
 
